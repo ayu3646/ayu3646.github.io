@@ -1,0 +1,46 @@
+---
+title: "Ayushi Gupta"
+image: "https://lh3.googleusercontent.com/a/ACg8ocJ4shiy9Hf7odvLGgVr2i9i7TcZbYQn6nGFTufprocHx-_CRwpwqw=s576-c-no"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/dr-ayu3646"
+  - label: Twitter
+    url: "https://x.com/ayu_3646"
+  - label: GitHub
+    url: "https://github.com/ayu3646/ayu3646.github.io"
+  - label: Email
+    url: "ayu.3646@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am Ayushi Gupta, currently pursuing my Masters of Public Health at Johns Hopkins Bloomberg School of Public Health, with a focus on biostatistics, data analysis, and statistical computing, the intersection of digital technology and clinical trials. 
+
+I am a dentist from India with 6 years of clinical work experience in the same field. I specialize in comprehensive and surgical rehabilitation of dental health care treatments, ensuring my patients receive the highest standard of care. I have independently managed two dental clinics, overseeing both clinical operations and administration, including team management, inventory control, hygiene standards, and increasing patient flow and retention through word-of-mouth, pamphlets, and dental camps.
+
+
+## Education
+
+**Johns Hopkins University** | Maryland, US
+
+    Master's Of Public Health
+
+**Rutgers School Of Dental Medicine** | New Jersey, NJ
+
+    Clinical Research Fellow
+
+**Baba Farid University** | India
+
+    Bachelor's Of Dental Surgery
+
+
+## Experience
+
+**Lead Dentist** | Jawahar Dental Clinic | Oct 2023 - May 2024
+
+**Dentist** | Civil Hospital Bathinda | Jan 2023 - Oct 2023
+
+**Dentist** | Dental Care Clinic | January 2019 - June 2020
+
